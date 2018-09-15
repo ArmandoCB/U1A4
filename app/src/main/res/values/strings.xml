@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DMoviles</string>
+    <string name="btn">Soy un boton</string>
+    <string name="textview">TextView</string>
 </resources>
